@@ -1,4 +1,11 @@
-#Hello for evey one :) ... I wanna share with u this amazing drawing 'circle art' with turtle lib ...try it yourself in your python IDE and tell us what you think  if you enjoyed it Don't forget to share repo with your friends please ;)
+"""
+Hello for evey one :) ... 
+I wanna share with u this amazing drawing 
+'circle art' with turtle lib ...
+Try it yourself in your python IDE and 
+tell us what you think. If you enjoyed it,
+don't forget to share repo with your friends
+ please ;)
 
 # insta : @_moha_wb
 
