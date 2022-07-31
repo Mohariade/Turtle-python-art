@@ -1,16 +1,16 @@
 # Turtle's art
 In this repository you will see some art of drawing 
-With a python library called turtle 🌟
+with a python library called turtle 🌟
 ***
   
-## Table of Contents
+## Table of Contents :
 1. [General info](#general-info)
 2. [What is turtle ?](#technologies)
 3. [Why turtle ?](#technologies)
 4. [How to install turtle library ?](#installation)
-5. [Refrences](#refrences)
-7. [About ](#about)
-## General info
+5. [Refrences.](#refrences)
+7. [About. ](#about)
+## General info :
   This is a small project with python. 
 This repo is like a collection of paint art.
  In each code you will see what you can innovate 
@@ -51,5 +51,5 @@ the following steps:
 > 2. https://www.geeksforgeeks.org/how-to-install-turtle-in-python-on-linux/amp/. 
 
 
-## about :
+## About :
 **Insta** : _moha_wb
