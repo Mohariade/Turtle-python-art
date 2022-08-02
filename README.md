@@ -41,15 +41,15 @@ the following steps:
 
 - Step 1: Firstly, we will install the current version of Python3 using the following command.
 
-> sudo apt-get install python3
+> *sudo apt-get install python3*
 
 - Step 2: Now, we will install the pip package manager, which is responsible for installing the external packages. Use the below command to install the pip manager
 
-> sudo apt install python3-pip
+> *sudo apt install python3-pip*
 
 - Step 3: Now using the PIP manager we are going to install the Turtle package. Now, we will run the below command in the terminal to install the Turtle library.
 
-> sudo pip3 install PythonTurtle
+> *sudo pip3 install PythonTurtle*
 
 ## Refrences :
 > 1. https://realpython.com/beginners-guide-python-turtle/. 
