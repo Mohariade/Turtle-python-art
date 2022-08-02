@@ -1,6 +1,6 @@
 # Turtle's art
-In this repository you will see some art of drawing 
-with a python library called turtle 🌟
+In this repository you will see some art of **drawing** 
+with a **python library** called **turtle** 🌟
 ***
   
 ## Table of Contents :
@@ -19,19 +19,24 @@ squares and lines.
 
 ## What is turtle ?
 
-turtle is a pre-installed Python library that enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called the turtle and this is what gives the library its name. In short, the Python turtle library helps new programmers get a feel for what programming with Python is like in a fun and interactive way.
+turtle is a pre-installed Python library that enables 
+users to create **pictures and shapes** by providing them with a virtual canvas.
+ The onscreen pen that you use for drawing is called the turtle and this is what gives the library its name.
+ In short, the Python turtle library helps 
+new programmers get a feel for what
+ programming with Python is like in a **fun and interactive way**.
 
 ## Why turtle ?
 
   After learning, the 2nd main object
- from drawing with turtle is enjoy,
- have fun, and unleash the energy of creativity.
+ from drawing with turtle is **enjoy**,
+ have fun, and unleash the energy of **creativity**.
 
 ## How to install turtle library ?
 
    As we said, turtle is pre-installed
  in your ide but if you want to install 
-the Turtle package in Linux follow 
+the Turtle package in **Linux** follow 
 the following steps:
 
 - Step 1: Firstly, we will install the current version of Python3 using the following command.
@@ -52,4 +57,4 @@ the following steps:
 
 
 ## About :
-**Insta** : _moha_wb
+**Insta** : *_moha_wb*
