@@ -15,7 +15,13 @@ with a **python library** called **turtle** 🌟
 This repo is like a collection of paint art.
  In each code you will see what you can innovate 
 only withe simple shapes like circles, 
-squares and lines.  
+squares and lines.
+
+![image info](./Turtle/t1.png)
+
+![image info](./Turtle/t2.png)
+
+![image info](./Turtle/t3.png)
 
 ## What is turtle ?
 
