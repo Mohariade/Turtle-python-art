@@ -10,18 +10,21 @@ with a **python library** called **turtle** 🌟
 4. [How to install turtle library ?](#installation)
 5. [Refrences.](#refrences)
 7. [About. ](#about)
+
 ## General info :
   This is a small project with python. 
 This repo is like a collection of paint art.
  In each code you will see what you can innovate 
 only withe simple shapes like circles, 
-squares and lines.
+squares and lines. Let's see this example:
+>https://github.com/Mohariade/Turtle-python-art/blob/3e54aff935d40c8dd3cc5de7dcb63890ac753a97/circle's_art.py
+  
+  Whene your run the code on your IDE, a triangle pen will move on screen and draw the circles with an accuracy, 
+follow those screenshots :
 
-![image info](./Turtle/t1.png)
-
-![image info](./Turtle/t2.png)
-
-![image info](./Turtle/t3.png)
+![Image text](https://github.com/Mohariade/Turtle-python-art/blob/images/Tc1.png)
+![Image text](https://github.com/Mohariade/Turtle-python-art/blob/images/Tc2.png)
+![Image text](https://github.com/Mohariade/Turtle-python-art/blob/images/Tc3.png)
 
 ## What is turtle ?
 
